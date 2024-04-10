@@ -13,7 +13,7 @@
 </div>
 
 - 地址: http://wep.turntip.cn
-- 介绍： [http://wep.turntip.cn/design/doc?id=d1711853506463&uid=wep_251711700015023](能力介绍文档)
+- 介绍： [能力介绍文档](http://wep.turntip.cn/design/doc?id=d1711853506463&uid=wep_251711700015023)
 
 ## 特点
 
