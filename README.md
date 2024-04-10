@@ -8,7 +8,7 @@
 
 一款面向未来的办公可视化平台. 
 
-![](./public/face.png)
+<img src="./public/face.png" alt="Edge" width="200px" />
 
 </div>
 
