@@ -13,6 +13,7 @@
 </div>
 
 - 地址: http://wep.turntip.cn
+- 介绍： [http://wep.turntip.cn/design/doc?id=d1711853506463&uid=wep_251711700015023](能力介绍文档)
 
 ## 特点
 
@@ -48,7 +49,9 @@
 | [DooringX](https://github.com/H5-Dooring/dooringx)                                | 快速高效搭建可视化拖拽平台.                                                             |
 | [Mitu](https://github.com/H5-Dooring/mitu-editor)                                 | 一款轻量级且可扩展的图片/图形编辑器解决方案.                                            |
 
+## 反馈
 
+如果有好的建议，需求， 欢迎随时和我反馈交流。
 
 ## 联系
 
