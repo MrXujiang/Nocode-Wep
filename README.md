@@ -1,14 +1,14 @@
 <p align="center">
   <a href="http://wep.turntip.cn">
-    <h1 align="center">Nocode/WEP</h1>
+    <h1 align="center">Nocode/WEP文档知识库引擎</h1>
   </a>
 </p>
 
 <div align="center">
 
-一款面向未来的办公可视化平台. 
+Nocode/WEP，一款面向未来的办公可视化平台. 
 
-<img src="./public/face.png" alt="Edge" width="200px" />
+<img src="./public/wep.png" alt="Edge" width="200px" />
 
 </div>
 
@@ -33,7 +33,11 @@
 
 - **文档支持配置弹幕**
 - **支持文章全局评论**
+- **支持图文音视频**
 - **支持划线评论**
+- **支持自定义画板**
+- **支持流程图编辑器**
+- **支持表单设计器**
 - **支持关键词注释，批注**
 - **支持文章数据统计**（访问量，PUV，字数和阅读时间分析）
 - **支持文章自定义赞赏配置**
