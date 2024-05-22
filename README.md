@@ -8,7 +8,7 @@
 
 Nocode/WEP，一款面向未来的办公可视化平台. 
 
-<img src="./public/wep.png" alt="Edge" width="200px" />
+<img src="./public/wep.png" alt="Edge" />
 
 </div>
 
