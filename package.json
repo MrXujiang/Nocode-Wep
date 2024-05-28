@@ -1,0 +1,83 @@
+{
+  "name": "next-admin",
+  "version": "0.1.0",
+  "private": true,
+  "author": "alex xu",
+  "description": "An enterprise-grade middle and back office solution based on ANTD and NEXTJS",
+  "keywords": [
+    "ant",
+    "next.js",
+    "components",
+    "next-admin",
+    "admin stystem",
+    "frontend",
+    "react",
+    "react-component"
+  ],
+  "homepage": "http://next-admin.com",
+  "bugs": {
+    "url": "https://github.com/MrXujiang/next-admin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrXujiang/next-admin"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev -p 80",
+    "build": "next build",
+    "start": "next start -p 80",
+    "lint": "next lint",
+    "build:local": "APP_ENV=local next build",
+    "build:dev": "APP_ENV=dev next build",
+    "build:prod": "APP_ENV=prod next build",
+    "deploy:local": "pnpm build:local && pm2 start pm2.config.js --env local",
+    "deploy:dev": "pnpm build:dev && pm2 start pm2.config.js --env dev",
+    "deploy:prod": "pnpm build && pm2 start pm2.config.js --env prod"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.8.2",
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@ant-design/pro-chat": "^1.13.6",
+    "@antv/g2": "5.1.15-beta.4",
+    "@daybrush/utils": "^1.13.0",
+    "@fortune-sheet/react": "^0.19.7",
+    "@moveable/helper": "^0.1.3",
+    "antd": "^5.15.2",
+    "axios": "^1.6.8",
+    "butterfly-dag": "5.1.0-beta.38",
+    "crypto": "^1.0.1",
+    "d3-scale-chromatic": "^3.1.0",
+    "file-saver": "^2.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "next": "14.1.3",
+    "next-intl": "^3.9.4",
+    "react": "^18",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^18",
+    "react-draggable": "^4.4.6",
+    "react-drawio": "^0.1.8",
+    "react-keycon": "^0.3.0",
+    "react-moveable": "^0.56.0",
+    "react-selecto": "^1.26.3",
+    "sharp": "^0.33.3",
+    "sortablejs": "^1.15.2"
+  },
+  "devDependencies": {
+    "@types/d3-scale-chromatic": "^3.0.3",
+    "@types/file-saver": "^2.0.7",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.14",
+    "@types/react": "^18",
+    "@types/react-custom-scrollbars": "^4.0.13",
+    "@types/react-dom": "^18",
+    "@types/sortablejs": "^1.15.8",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "next-plugin-antd-less": "^1.8.0",
+    "postcss": "^8",
+    "typescript": "^5"
+  }
+}

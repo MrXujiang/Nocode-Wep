@@ -15,6 +15,13 @@ Nocode/WEP，一款面向未来的办公可视化平台.
 - 地址: http://wep.turntip.cn
 - 介绍： [能力介绍文档](http://wep.turntip.cn/design/doc?id=d1713369951622&uid=wep_251711700015023)
 
+
+## 项目已开源拖拽搭建模块
+
+本地启动访问路径：`/dragMode`
+
+next-admin 开源中后台： `https://github.com/MrXujiang/next-admin`
+
 ## 特点
 
 - Nocode/Doc 文档搭建引擎
