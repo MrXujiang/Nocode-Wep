@@ -12,7 +12,7 @@ Nocode/WEP，一款面向未来的办公可视化平台.
 
 </div>
 
-- 地址: http://wep.turntip.cn
+- 地址: doc.dooring.vip
 - 介绍： [能力介绍文档](http://wep.turntip.cn/design/doc?id=d1713369951622&uid=wep_251711700015023)
 
 
