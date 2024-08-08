@@ -15,6 +15,13 @@ Nocode/WEP，一款面向未来的办公可视化平台.
 - 地址: doc.dooring.vip
 - 介绍： [能力介绍文档](http://wep.turntip.cn/design/doc?id=d1713369951622&uid=wep_251711700015023)
 
+### 纯编辑器版本上线
+
+文档编辑器: [编辑器入口](http://react-flow.com/docx)
+
+- 支持低成本源码部署
+- 一键集成各种系统
+
 
 ## 项目已开源拖拽搭建模块
 
