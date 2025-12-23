@@ -12,12 +12,12 @@ Nocode/WEP，一款面向未来的办公可视化平台.
 
 </div>
 
-- 地址: orange.turntip.cn/doc
+- 地址: https://ai.flowmix.cn
 - 介绍： [能力介绍文档](http://wep.turntip.cn/design/doc?id=d1713369951622&uid=wep_251711700015023)
 
 ### 纯编辑器版本上线
 
-文档编辑器: [编辑器入口](http://react-flow.com/docx)
+文档编辑器: [编辑器入口](https://mindlink.turntip.cn)
 
 - 支持低成本源码部署
 - 一键集成各种系统
